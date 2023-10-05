@@ -1,4 +1,4 @@
-#CalcEngMateriais
+CalcEngMateriais
 Bem-vindo ao mundo da Engenharia com um toque de mágica! O repositório CalcEngMateriais é o seu guia para desvendar os segredos por trás dos cálculos de momento de inércia (dIx e dIy) de forma simples e intuitiva. Prepare-se para uma jornada onde a matemática encontra a criatividade e a ciência se mistura com a arte.
 
 Imagine um lugar onde retângulos, triângulos, círculos e semicírculos ganham vida com números e fórmulas mágicas. Este é o repositório que permite que você dê vida aos objetos e descubra o seu momento de inércia com facilidade.
